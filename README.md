@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaksSyrnev
-- 👀 I’m interested in Frontend...
-- 🌱 I’m currently learning React.JS
+- 👀 I’m interested in Frontend development.
+- 🌱 I’m currently learning React.JS.
 - 📫 How to reach me ...
 
 <!---
