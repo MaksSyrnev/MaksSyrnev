@@ -1,6 +1,6 @@
-**Привет. я Максим Сырнев.** 
+**Привет/** 
 
-Здесь запаркованы мои проекты по Frontend разработке.
+
 
 <!---
 MaksSyrnev/MaksSyrnev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
